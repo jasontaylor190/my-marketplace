@@ -11,7 +11,7 @@
     "plugins": [
 	{
 	    "name": "test-plugin",
-	    "source": ".plugins/test-plugin",
+	    "source": "./plugins/test-plugin",
 	    "description": "my test plugin"
 	}
 	       ]
