@@ -1,0 +1,12 @@
+{
+  "name": "my-marketplace",
+  "owner": {
+    "name": "Jason Taylor",
+    "email": "jasontaylor190@gmail.com",
+  },
+  "metadata": {
+    "description": "This is my marketplace of claude stuff",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}

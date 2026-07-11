@@ -1,0 +1,8 @@
+{
+  "name": "my-test-plugin",
+  "version": "1.0.0",
+  "description": "My test plugin",
+  "author": "Jason Taylor",
+  "license": "MIT",
+  "compatibility": "^1.0.0"
+}
