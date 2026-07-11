@@ -8,5 +8,11 @@
     "description": "This is my marketplace of claude stuff",
     "version": "1.0.0"
   },
-  "plugins": ["test-plugin"]
+    "plugins": [
+	{
+	    "name": "test-plugin",
+	    "source": ".plugins/test-plugin",
+	    "description": "my test plugin"
+	}
+	       ]
 }
