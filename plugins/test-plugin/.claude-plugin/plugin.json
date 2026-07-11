@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "My test plugin",
   "author":
-    { name: "Jason Taylor",
-      email: "jasontaylor190@gmail.com"},
+    { "name": "Jason Taylor",
+      "email": "jasontaylor190@gmail.com"},
   "license": "MIT",
   "compatibility": "^1.0.0"
 }
