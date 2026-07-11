@@ -8,5 +8,5 @@
     "description": "This is my marketplace of claude stuff",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": ["test-plugin"]
 }
